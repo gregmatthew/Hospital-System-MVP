@@ -38,10 +38,3 @@ This project demonstrates the **core workflows** of hospital operations in a lig
 No external dependencies required ✅
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/hospital-mvp.git
-cd hospital-mvp
